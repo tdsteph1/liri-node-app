@@ -1,0 +1,12 @@
+{
+  "name": "liri-node-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
+}
