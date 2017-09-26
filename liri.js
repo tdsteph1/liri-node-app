@@ -4,7 +4,7 @@ var request = 	 require("request");	//OMDB
 //get filestream request
 var fs = require("fs");
 
-var glob = "bob";
+
 //Twitter
 //Store Twitter credentials of particualr user
 var client = listOfKeys.twitterKeys;
