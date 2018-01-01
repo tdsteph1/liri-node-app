@@ -28,7 +28,7 @@ The twitter api searches my user account and displays tweets i've made on twitte
 
  ## node liri.js spotify-this-song 
 ![Img4](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img4.png)
-Spotify will return songs info. Since there are no arguments after *spotify-this-song* the default song is *The Sign* by *Ace Of Bace *
+Spotify will return songs info. Since there are no arguments after *spotify-this-song* the default song is *The Sign* by *Ace Of Base*
 
  ## node liri.js spofify-this-song Magical Mystery Tour
 ![Img5](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img5.png)
