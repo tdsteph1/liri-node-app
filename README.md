@@ -20,7 +20,7 @@ We use the omdb API to display movies. Since there are no arguments after *movie
 
 ## node liri.js movie-this Terminator 2
 ![Img2](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img2.png)
-This time we provide the argument *Terminator2* and the API searches for movie and displays the results in JSON Format.
+This time we provide the argument * Terminator2 * and the API searches for movie and displays the results in JSON Format.
 
  ## node liri.js my-tweets
 ![Img3](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img3.png)
@@ -28,11 +28,11 @@ The twitter api searches my user account and displays tweets i've made on twitte
 
  ## node liri.js spotify-this-song 
 ![Img4](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img4.png)
-Spotify will return songs info. Since there are no arguments after *spotify-this-song* the default song is *The Sign* by *Ace Of Bace*
+Spotify will return songs info. Since there are no arguments after *spotify-this-song* the default song is * The Sign* by *Ace Of Bace *
 
  ## node liri.js spofify-this-song Magical Mystery Tour
 ![Img5](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img5.png)
-This time we pass in an argument *Magical Mystery Tour* and Spotify API returns data that pertains to The Beatles song.
+This time we pass in an argument * Magical Mystery Tour * and Spotify API returns data that pertains to The Beatles song.
 
 
 
