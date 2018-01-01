@@ -20,7 +20,7 @@ We use the omdb API to display movies. Since there are no arguments after *movie
 
 ## node liri.js movie-this Terminator 2
 ![Img2](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img2.png)
-This time we provide the argument * Terminator2 * and the API searches for movie and displays the results in JSON Format.
+This time we provide the argument *Terminator2* and the API searches for movie and displays the results in JSON Format.
 
  ## node liri.js my-tweets
 ![Img3](https://github.com/tdsteph1/liri-node-app/blob/master/public/images/img3.png)
